@@ -1,0 +1,17 @@
+[project]
+name = "company-knowledge-base-rag-system"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "faiss-cpu>=1.13.2",
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.10",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.18",
+    "langchain-openai>=1.1.11",
+    "openai>=2.26.0",
+    "prompts>=0.0.1",
+    "pypdf>=6.8.0",
+]

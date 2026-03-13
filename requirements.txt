@@ -1,0 +1,7 @@
+Langchain
+Langchain-Community
+PyPDF
+FAISS-CPU
+Langchain-OpenAI
+langchain-core
+PyPDFLoader
